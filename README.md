@@ -1,6 +1,6 @@
 # NLP Text Preprocessing using NLTK and spaCy
 
-## 📌 Project Description
+## Project Description
 
 This project demonstrates basic text preprocessing techniques using two popular NLP libraries: **NLTK** and **spaCy**.
 
@@ -15,7 +15,7 @@ The goal is to compare their performance in handling:
 
 ---
 
-## 🧾 Input Sentences
+## Input Sentences
 
 1. I love learning natural language processing.
 2. This course is very interesting and useful.
@@ -23,7 +23,7 @@ The goal is to compare their performance in handling:
 
 ---
 
-## ⚙️ Preprocessing Steps
+## Preprocessing Steps
 
 * Tokenization
 * Lowercasing
@@ -34,7 +34,7 @@ The goal is to compare their performance in handling:
 
 ---
 
-## 📊 Results
+## Results
 
 ### NLTK Output
 
@@ -54,7 +54,7 @@ The goal is to compare their performance in handling:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric    | NLTK  | spaCy |
 | --------- | ----- | ----- |
@@ -65,14 +65,14 @@ The goal is to compare their performance in handling:
 
 ---
 
-## 🧠 Analysis
+## Analysis
 
 spaCy outperforms NLTK because it uses **lemmatization**, which produces meaningful base forms of words.
 In contrast, NLTK uses **stemming**, which may truncate words incorrectly and reduce accuracy.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies using:
 
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```
 python main.py
@@ -90,7 +90,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── main.py
@@ -100,6 +100,6 @@ python main.py
 
 ---
 
-## 🔗 Author
+## Author
 
 Student project for NLP course.
